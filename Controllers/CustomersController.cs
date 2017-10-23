@@ -15,6 +15,7 @@ namespace TiendaVirtual.Controllers
         private TiendaVirtualContext db = new TiendaVirtualContext();
 
         // GET: Customers
+        [Authorize(Roles = "View")]
         public ActionResult Index()
         {
             var customers = db.Customers.Include(c => c.DocumentType);
