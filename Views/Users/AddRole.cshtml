@@ -1,0 +1,28 @@
+﻿@model TiendaVirtual.ViewModel.UserView
+@{
+    ViewBag.Title = "AddRole";
+}
+
+<h2>Agregar Roles al usuario: @Model.Name</h2>
+<h2>@ViewBag.Message</h2>
+
+@using (Html.BeginForm("AddRole", "Users", new { userID = Model.userId }, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Role.RoleId, "RoleId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("RoleId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Role.RoleId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <input type="submit" value="Add Role" id="NewOrder" class="btn btn-success" />
+        @Html.ActionLink("Regresar", "Roles", new {userID = Model.userId }, new { @class = "btn btn-info" })
+
+    </div>
+}

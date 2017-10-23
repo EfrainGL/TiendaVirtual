@@ -1,0 +1,29 @@
+﻿@model TiendaVirtual.ViewModel.UserView
+@{
+    ViewBag.Title = "Roles";
+}
+
+<h2>Roles del usuario: @Model.Name</h2>
+
+
+<p>
+    @Html.ActionLink("Agregar Roll", "AddRole", new { userID = Model.userId }, new { @class = "btn btn-primary" } )
+    @Html.ActionLink("Regresar", "Index", new{ },new { @class = "btn btn-info" })
+</p>
+<table class="table">
+  
+    @for (int i = 0; i < Model.Roles.Count; i++)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Roles[i].Name)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { RoleID = Model.Roles[i].RoleId, UserID = Model.userId})
+            </td>
+        </tr>
+    }
+
+</table>
+
+

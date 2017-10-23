@@ -1,0 +1,164 @@
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll.config
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.pdb
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\EntityFramework.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\EntityFramework.SqlServer.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Google.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.Infrastructure.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Owin.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\WebGrease.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.pdb
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\EntityFramework.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\EntityFramework.SqlServer.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Google.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Helpers.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Mvc.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Optimization.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Razor.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\EntityFramework.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
+c:\users\arys\documents\visual studio 2013\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll.config
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.pdb
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.SqlServer.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Owin.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\WebGrease.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.SqlServer.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.pdb
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Razor.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\jgarcia\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
