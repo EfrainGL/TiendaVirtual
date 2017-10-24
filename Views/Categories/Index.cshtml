@@ -22,13 +22,60 @@
 }
 
 @section Scripts{
-   <script>
+   <script type="text/javascript">
        $(function () {
            $('#btnGetCategories').on("click", function () {
+               $.ajax({
+                   type: 'GET',
+                   url: '/api/CategoriesAPI',
+                   datatype: 'json',
+                   cache: false
+               })
+                   .success(function (data) {
+                   var output = '';
+                   for (var i = 0; i < data.length; i++) {
+                       output += '<hr/><br/>';
+                       output += '<b> ID Categoria </b>' + data[i].CategoryID;
+                       output += '<br/>';
+                       output += '<b> Descripcion </b>' + data[i].Description;
+                   }
+                   $('#lblMessage').html(output);
+               })
+                 .error(function (hxr, ajaxoptions, ThrownError) {
+                     $('#lblMessage').html('Error');
+                 });
                return false;
            });
 
            $('#btnGetCategory').on("click", function () {
+               var categoryID = $('#txtCategoryID').val();
+               if (categoryID == "") {
+                   $('#lblMessage').html('Debe de Digitar un ID categoria');
+                   return false;
+               }
+
+                $.ajax({
+                   type: 'GET',
+                   url: '/api/CategoriesAPI/'+categoryID,
+                   datatype: 'json',
+                   cache: false
+               })
+                   .success(function (data) {
+                       if (data != null) {
+                           var output = '';
+                           output += '<hr/><br/>';
+                           output += '<b> ID Categoria </b>' + data.CategoryID;
+                           output += '<br/>';
+                           output += '<b> Descripcion </b>' + data.Description;
+                           $('#lblMessage').html(output);
+                       } else {
+                           $('#lblMessage').html('No se encontro la Categoria');
+                       }
+                   
+               })
+                 .error(function (hxr, ajaxoptions, ThrownError) {
+                     $('#lblMessage').html('Error');
+                 });
                return false;
            });
 
@@ -43,7 +90,32 @@
            $('#btnCategories').on("click", function () {
                return false;
            });
+
+           $(document).ajaxStart(function () {
+               $('#loading').show();
+           })
+           $(document).ajaxStop(function () {
+               $('#loading').hide();
+           })
        });
 
     </script>  
-}
+    }
+
+<style type="text/css">
+    #loading {
+        display: none;
+        background-color: gray;
+        z-index: 999999;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding-top: 300px;
+        filter: alpha(opacity=75);
+        opacity: 0.75;
+    }
+</style>
+<div id="loading"><img src="~/Images/loader.gif" /></div>﻿
