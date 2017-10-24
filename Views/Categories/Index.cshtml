@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TiendaVirtual.Models.Category>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Categorias</h2>
+
+@using (Html.BeginForm()) {
+    <button id="btnGetCategories"> Obtener categorias </button>
+    <button id="btnGetCategory"> Obtener Categoria</button>
+    <button id="btnAddCategory"> Agregar Categoria </button>
+    <button id="btnUpdateCategory"> Actualizar Categoria </button>
+    <button id="btnDeleteCategory"> Eliminar Categoria</button>
+    <br />
+    <br />
+    <input type="text" id="txtCategoryID" placeholder="Id Categoria"/>
+    <input type="text" id="txtDescription" placeholder="Descripcion"/>
+    <br />
+    <br />
+    <div id="lblMessage"> </div>
+}
+
+@section Scripts{
+   <script>
+       $(function () {
+           $('#btnGetCategories').on("click", function () {
+               return false;
+           });
+
+           $('#btnGetCategory').on("click", function () {
+               return false;
+           });
+
+           $('#btnAddCategory').on("click", function () {
+               return false;
+           });
+
+           $('#btnUpdateCategory').on("click", function () {
+               return false;
+           });
+
+           $('#btnCategories').on("click", function () {
+               return false;
+           });
+       });
+
+    </script>  
+}

@@ -37,5 +37,7 @@ namespace TiendaVirtual.Models
         public System.Data.Entity.DbSet<TiendaVirtual.Models.Order> Orders { get; set; }
 
         public System.Data.Entity.DbSet<TiendaVirtual.Models.OrderDetails> OrderDetails { get; set; }
+
+        public System.Data.Entity.DbSet<TiendaVirtual.Models.Category> Categories { get; set; }
     }
 }
