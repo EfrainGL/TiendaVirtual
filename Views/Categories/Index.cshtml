@@ -80,14 +80,91 @@
            });
 
            $('#btnAddCategory').on("click", function () {
+               var desc = $('#txtDescription').val();
+             if (desc == "") {
+                   $('#lblMessage').html('Debe de Digitar una Descripcion');
+                   return false;
+             }
+
+             var category = {
+                 Description : desc
+             };
+
+               $.ajax({
+                   type: 'POST',
+                   url: '/api/CategoriesAPI',
+                   data: category,
+                   datatype: 'json',
+                   cache: false
+               })
+                  .success(function (data) {
+                          var output = '';
+                          output += '<hr/> Agregado con Exito! <br/>';
+                          output += '<b> ID Categoria </b>' + data.CategoryID;
+                          output += '<br/>';
+                          output += '<b> Descripcion </b>' + data.Description;
+                          $('#lblMessage').html(output);
+                  })
+                .error(function (hxr, ajaxoptions, ThrownError) {
+                    $('#lblMessage').html('Error');
+                });
                return false;
            });
 
            $('#btnUpdateCategory').on("click", function () {
+               var id = $('#txtCategoryID').val();
+               if (id == "") {
+                   $('#lblMessage').html('Debe de Digitar un Id');
+                   return false;
+               }
+               var desc = $('#txtDescription').val();
+               if (desc == "") {
+                   $('#lblMessage').html('Debe de Digitar una Descripcion');
+                   return false;
+               } 
+
+               var category = {
+                   CategoryID : id,
+                   Description: desc
+               };
+
+               $.ajax({
+                   type: 'PUT',
+                   url: '/api/CategoriesAPI/'+id,
+                   data: category,
+                   datatype: 'json',
+                   cache: false
+               }).success(function (data) {
+                      var output = '';
+                      output += '<hr/> Actualizado con Exito! <br/>';
+                      $('#lblMessage').html(output);
+                  })
+                .error(function (hxr, ajaxOptions, throwError) {
+                    $('#lblMessage').html('Error');
+                });
                return false;
            });
 
-           $('#btnCategories').on("click", function () {
+           $('#btnDeleteCategory').on("click", function () {
+               var id = $('#txtCategoryID').val();
+               if (id == "") {
+                   $('#lblMessage').html('Debe de Digitar un Id');
+                   return false;
+               }
+
+               $.ajax({
+                   type: 'DELETE',
+                   url: '/api/CategoriesAPI/' + id,
+                   datatype: 'json',
+                   cache: false
+               }).success(function (data) {
+                   var output = '';
+                   output += '<hr/> '+id+' Eliminado con Exito! <br/>';
+                   $('#lblMessage').html(output);
+               })
+                .error(function (hxr, ajaxOptions, throwError) {
+                    $('#lblMessage').html('Error');
+                });
                return false;
            });
 
