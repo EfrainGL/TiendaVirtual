@@ -15,6 +15,7 @@ namespace TiendaVirtual.Controllers
         private TiendaVirtualContext db = new TiendaVirtualContext();
 
         // GET: Customers
+        [Authorize(Roles = "View")]
         public ActionResult Index()
         {
             var customers = db.Customers.Include(c => c.DocumentType);
@@ -22,6 +23,7 @@ namespace TiendaVirtual.Controllers
         }
 
         // GET: Customers/Details/5
+        [Authorize(Roles = "View")]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -37,6 +39,7 @@ namespace TiendaVirtual.Controllers
         }
 
         // GET: Customers/Create
+        [Authorize(Roles = "Create")]
         public ActionResult Create()
         {
             var lista = db.DocumentTypes.ToList();
@@ -51,6 +54,7 @@ namespace TiendaVirtual.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Create")]
         public ActionResult Create([Bind(Include = "CustomerID,Name,LastName,Phone,Address,Email,Document,DocumentTypeID")] Customer customer)
         {
             if (ModelState.IsValid)
@@ -65,6 +69,8 @@ namespace TiendaVirtual.Controllers
         }
 
         // GET: Customers/Edit/5
+        [Authorize(Roles = "Edit")]
+
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -85,6 +91,7 @@ namespace TiendaVirtual.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Edit")]
         public ActionResult Edit([Bind(Include = "CustomerID,Name,LastName,Phone,Address,Email,Document,DocumentTypeID")] Customer customer)
         {
             if (ModelState.IsValid)
@@ -98,6 +105,7 @@ namespace TiendaVirtual.Controllers
         }
 
         // GET: Customers/Delete/5
+        [Authorize(Roles = "Delete")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -115,6 +123,7 @@ namespace TiendaVirtual.Controllers
         // POST: Customers/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
             Customer customer = db.Customers.Find(id);
